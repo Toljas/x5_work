@@ -1,0 +1,269 @@
+﻿;1_79931_sms_viber_cg;0_79931_sms_viber_cg
+total_group_size;28947;115781
+supplier_fin;0.0;159798.0
+supplier_fin / total_group_size;0.0;1.3801746400532038
+total_communications;0;106532
+sms_costs;0.0;112823.27999999977
+viber_costs;0.0;44829.83999999983
+email_costs;0.0;0.0
+communication_costs;0.0;157653.12
+communication_costs / total_group_size;0.0;1.3616493207002875
+communication_costs + points_delta_with_redemption;7967.981999999983;148834.88699999996
+accrued_points;487657.4999999999;1967679.0
+spent_points;478498.90000000014;1977814.900000001
+accrued_exp_points;22043.1;137579.5
+spent_exp_points;16571.3;73230.39999999998
+points_delta_with_redemption;7967.981999999983;-8818.233000000027
+exp_points_delta_with_redemption;4760.4659999999985;55983.71699999998
+num_visits;80971;326709
+num_unique_visits;24986;100236
+rto_novat;51711043.090000026;208007682.81
+quantity;773324.5510000001;3107168.1550000003
+front_margin_novat;14233802.38;57364626.529999994
+front_margin_novat_wo_comm;14233802.38;57206973.40999992
+commercial_front_margin_novat;14225834.397999994;57373444.76300001
+ebitda;14225834.397999994;57215791.642999955
+supplier_fin_ebitda;14225834.397999994;57375589.642999955
+categories_items_num_visits;7807;32008
+categories_items_num_unique_visits;5969;24242
+categories_items_rto_novat;634657.67;2630172.890000001
+categories_items_quantity;18397.0;77511.0
+categories_items_front_margin_novat;163407.4000000001;675458.1199999998
+categories_items_front_margin_novat_wo_comm;163407.4000000001;517804.999999995
+categories_items_commercial_front_margin_novat;155439.41799999998;684276.353
+categories_items_ebitda;155439.41799999998;526623.2329999991
+categories_items_supplier_fin_ebitda;155439.41799999998;686421.2329999987
+experiment_items_num_visits;1113;5084
+experiment_items_num_unique_visits;960;4437
+experiment_items_rto_novat;125610.60000000005;570406.49
+experiment_items_quantity;6941.0;31494.0
+experiment_items_front_margin_novat;27167.17000000001;123104.40000000005
+experiment_items_front_margin_novat_wo_comm;27167.17000000001;-34548.719999999645
+experiment_items_commercial_front_margin_novat;19199.188000000024;131922.6330000001
+experiment_items_ebitda;19199.188000000024;-25730.487000000307
+experiment_items_supplier_fin_ebitda;19199.188000000024;134067.5129999998
+mean_effect_categories_items_num_unique_visits;;0.003091205771890547
+effect_left_bound_categories_items_num_unique_visits;;-0.0011426822241008161
+effect_right_bound_categories_items_num_unique_visits;;0.007438343837381131
+mean_effect_categories_items_num_unique_visits * total_group_size;;357.0
+control_metric_means_categories_items_num_unique_visits;;0.20577442359620576
+target_metric_mean_categories_items_num_unique_visits;;0.20894488461704983
+metric_pvalue_categories_items_num_unique_visits;;0.23170000000000002
+metric_significance_categories_items_num_unique_visits;;0.0
+mean_effect_categories_items_num_unique_visits * total_group_size / categories_items_num_unique_visits;;0.014726507713884993
+mean_effect_categories_items_num_visits;;0.005852057430107813
+effect_left_bound_categories_items_num_visits;;-0.00034586658781775575
+effect_right_bound_categories_items_num_visits;;0.012067426871175357
+mean_effect_categories_items_num_visits * total_group_size;;676.0
+control_metric_means_categories_items_num_visits;;0.26812296614276815
+target_metric_mean_categories_items_num_visits;;0.27413949863618653
+metric_pvalue_categories_items_num_visits;;0.13645000000000002
+metric_significance_categories_items_num_visits;;0.0
+mean_effect_categories_items_num_visits * total_group_size / categories_items_num_visits;;0.021119720069982504
+mean_effect_categories_items_rto_novat;;0.7331859980376958
+effect_left_bound_categories_items_rto_novat;;0.10978862566479838
+effect_right_bound_categories_items_rto_novat;;1.3625809796546628
+mean_effect_categories_items_rto_novat * total_group_size;;84672.0
+control_metric_means_categories_items_rto_novat;;21.765028041265666
+target_metric_mean_categories_items_rto_novat;;22.510619820755945
+metric_pvalue_categories_items_rto_novat;;0.0547
+metric_significance_categories_items_rto_novat;;1.0
+mean_effect_categories_items_rto_novat * total_group_size / categories_items_rto_novat;;0.03219256054304474
+mean_effect_categories_items_front_margin_novat;;0.17993842864369863
+effect_left_bound_categories_items_front_margin_novat;;0.006305976443759992
+effect_right_bound_categories_items_front_margin_novat;;0.34594990299543554
+mean_effect_categories_items_front_margin_novat * total_group_size;;20780.0
+control_metric_means_categories_items_front_margin_novat;;5.596402409471717
+target_metric_mean_categories_items_front_margin_novat;;5.779600381001863
+metric_pvalue_categories_items_front_margin_novat;;0.08685000000000001
+metric_significance_categories_items_front_margin_novat;;1.0
+mean_effect_categories_items_front_margin_novat * total_group_size / categories_items_front_margin_novat;;0.030764305564940142
+mean_effect_categories_items_front_margin_novat_wo_comm;;-1.181699837105099
+effect_left_bound_categories_items_front_margin_novat_wo_comm;;-1.3552791385062344
+effect_right_bound_categories_items_front_margin_novat_wo_comm;;-1.0154889851718583
+mean_effect_categories_items_front_margin_novat_wo_comm * total_group_size;;-136469.0
+control_metric_means_categories_items_front_margin_novat_wo_comm;;5.596402409471717
+target_metric_mean_categories_items_front_margin_novat_wo_comm;;4.41795757024722
+metric_pvalue_categories_items_front_margin_novat_wo_comm;;0.0
+metric_significance_categories_items_front_margin_novat_wo_comm;;1.0
+mean_effect_categories_items_front_margin_novat_wo_comm * total_group_size / categories_items_front_margin_novat_wo_comm;;-0.2635528818763846
+mean_effect_categories_items_commercial_front_margin_novat;;0.4192387346591151
+effect_left_bound_categories_items_commercial_front_margin_novat;;-0.2305676435343744
+effect_right_bound_categories_items_commercial_front_margin_novat;;1.118219181351529
+mean_effect_categories_items_commercial_front_margin_novat * total_group_size;;48416.0
+control_metric_means_categories_items_commercial_front_margin_novat;;5.200300318493388
+target_metric_mean_categories_items_commercial_front_margin_novat;;5.633636099926396
+metric_pvalue_categories_items_commercial_front_margin_novat;;0.2762
+metric_significance_categories_items_commercial_front_margin_novat;;0.0
+mean_effect_categories_items_commercial_front_margin_novat * total_group_size / categories_items_commercial_front_margin_novat;;0.07075503893673205
+mean_effect_categories_items_ebitda;;-0.9423995310896829
+effect_left_bound_categories_items_ebitda;;-1.5923728390143064
+effect_right_bound_categories_items_ebitda;;-0.2431731319078837
+mean_effect_categories_items_ebitda * total_group_size;;-108833.0
+control_metric_means_categories_items_ebitda;;5.200300318493388
+target_metric_mean_categories_items_ebitda;;4.271993289171754
+metric_pvalue_categories_items_ebitda;;0.0225
+metric_significance_categories_items_ebitda;;1.0
+mean_effect_categories_items_ebitda * total_group_size / categories_items_ebitda;;-0.2066619799130666
+mean_effect_categories_items_supplier_fin_ebitda;;0.43780178076900006
+effect_left_bound_categories_items_supplier_fin_ebitda;;-0.21215094264759812
+effect_right_bound_categories_items_supplier_fin_ebitda;;1.1384472083960513
+mean_effect_categories_items_supplier_fin_ebitda * total_group_size;;50560.0
+control_metric_means_categories_items_supplier_fin_ebitda;;5.200300318493388
+target_metric_mean_categories_items_supplier_fin_ebitda;;5.652237476728581
+metric_pvalue_categories_items_supplier_fin_ebitda;;0.2592
+metric_significance_categories_items_supplier_fin_ebitda;;0.0
+mean_effect_categories_items_supplier_fin_ebitda * total_group_size / categories_items_supplier_fin_ebitda;;0.07365739515228559
+mean_effect_experiment_items_num_unique_visits;;0.005282340609694168
+effect_left_bound_experiment_items_num_unique_visits;;0.0032818227020380048
+effect_right_bound_experiment_items_num_unique_visits;;0.007428051771376544
+mean_effect_experiment_items_num_unique_visits * total_group_size;;610.0
+control_metric_means_experiment_items_num_unique_visits;;0.03288790417503289
+target_metric_mean_experiment_items_num_unique_visits;;0.03817811837035113
+metric_pvalue_experiment_items_num_unique_visits;;0.0
+metric_significance_experiment_items_num_unique_visits;;1.0
+mean_effect_experiment_items_num_unique_visits * total_group_size / experiment_items_num_unique_visits;;0.1374802794681091
+mean_effect_experiment_items_num_visits;;0.005597570523185782
+effect_left_bound_experiment_items_num_visits;;0.00313687333543969
+effect_right_bound_experiment_items_num_visits;;0.00817492326530404
+mean_effect_experiment_items_num_visits * total_group_size;;646.0
+control_metric_means_experiment_items_num_visits;;0.038115349996538116
+target_metric_mean_experiment_items_num_visits;;0.043702645365198946
+metric_pvalue_experiment_items_num_visits;;0.0002
+metric_significance_experiment_items_num_visits;;1.0
+mean_effect_experiment_items_num_visits * total_group_size / experiment_items_num_visits;;0.12706530291109364
+mean_effect_experiment_items_rto_novat;;0.6037514962894523
+effect_left_bound_experiment_items_rto_novat;;0.2859495416197629
+effect_right_bound_experiment_items_rto_novat;;0.915774180241919
+mean_effect_experiment_items_rto_novat * total_group_size;;69724.0
+control_metric_means_experiment_items_rto_novat;;4.297315308453922
+target_metric_mean_experiment_items_rto_novat;;4.902075334459021
+metric_pvalue_experiment_items_rto_novat;;0.0007
+metric_significance_experiment_items_rto_novat;;1.0
+mean_effect_experiment_items_rto_novat * total_group_size / experiment_items_rto_novat;;0.12223563585330174
+mean_effect_experiment_items_front_margin_novat;;0.12647151075858037
+effect_left_bound_experiment_items_front_margin_novat;;0.05613541271883736
+effect_right_bound_experiment_items_front_margin_novat;;0.19597634389344384
+mean_effect_experiment_items_front_margin_novat * total_group_size;;14606.0
+control_metric_means_experiment_items_front_margin_novat;;0.9313546354635468
+target_metric_mean_experiment_items_front_margin_novat;;1.0580829544962553
+metric_pvalue_experiment_items_front_margin_novat;;0.0017499999999999998
+metric_significance_experiment_items_front_margin_novat;;1.0
+mean_effect_experiment_items_front_margin_novat * total_group_size / experiment_items_front_margin_novat;;0.11864726199875873
+mean_effect_experiment_items_front_margin_novat_wo_comm;;-1.2351667549902179
+effect_left_bound_experiment_items_front_margin_novat_wo_comm;;-1.3055709907101791
+effect_right_bound_experiment_items_front_margin_novat_wo_comm;;-1.1653806917826972
+mean_effect_experiment_items_front_margin_novat_wo_comm * total_group_size;;-142643.0
+control_metric_means_experiment_items_front_margin_novat_wo_comm;;0.9313546354635468
+target_metric_mean_experiment_items_front_margin_novat_wo_comm;;-0.3035598562583879
+metric_pvalue_experiment_items_front_margin_novat_wo_comm;;0.0
+metric_significance_experiment_items_front_margin_novat_wo_comm;;1.0
+mean_effect_experiment_items_front_margin_novat_wo_comm * total_group_size / experiment_items_front_margin_novat_wo_comm;;-4.128749198233725
+mean_effect_experiment_items_commercial_front_margin_novat;;0.3657718167739969
+effect_left_bound_experiment_items_commercial_front_margin_novat;;-0.28959227034553137
+effect_right_bound_experiment_items_commercial_front_margin_novat;;1.0528356169426625
+mean_effect_experiment_items_commercial_front_margin_novat * total_group_size;;42241.0
+control_metric_means_experiment_items_commercial_front_margin_novat;;0.5352525444852182
+target_metric_mean_experiment_items_commercial_front_margin_novat;;0.9121186734207909
+metric_pvalue_experiment_items_commercial_front_margin_novat;;0.33035000000000003
+metric_significance_experiment_items_commercial_front_margin_novat;;0.0
+mean_effect_experiment_items_commercial_front_margin_novat * total_group_size / experiment_items_commercial_front_margin_novat;;0.32019524655788195
+mean_effect_experiment_items_ebitda;;-0.9958664489748011
+effect_left_bound_experiment_items_ebitda;;-1.6512149745928355
+effect_right_bound_experiment_items_ebitda;;-0.308798517360493
+mean_effect_experiment_items_ebitda * total_group_size;;-115008.0
+control_metric_means_experiment_items_ebitda;;0.5352525444852182
+target_metric_mean_experiment_items_ebitda;;-0.4495241373338521
+metric_pvalue_experiment_items_ebitda;;0.01285
+metric_significance_experiment_items_ebitda;;1.0
+mean_effect_experiment_items_ebitda * total_group_size / experiment_items_ebitda;;-4.469717188018969
+mean_effect_experiment_items_supplier_fin_ebitda;;0.3843348628838818
+effect_left_bound_experiment_items_supplier_fin_ebitda;;-0.27280933749710884
+effect_right_bound_experiment_items_supplier_fin_ebitda;;1.0720184718588859
+mean_effect_experiment_items_supplier_fin_ebitda * total_group_size;;44385.0
+control_metric_means_experiment_items_supplier_fin_ebitda;;0.5352525444852182
+target_metric_mean_experiment_items_supplier_fin_ebitda;;0.9307200502229735
+metric_pvalue_experiment_items_supplier_fin_ebitda;;0.31320000000000003
+metric_significance_experiment_items_supplier_fin_ebitda;;0.0
+mean_effect_experiment_items_supplier_fin_ebitda * total_group_size / experiment_items_supplier_fin_ebitda;;0.3310645435781304
+mean_effect_num_unique_visits;;0.0024622980871927933
+effect_left_bound_num_unique_visits;;-0.0012068091069800222
+effect_right_bound_num_unique_visits;;0.006094118698790202
+mean_effect_num_unique_visits * total_group_size;;284.0
+control_metric_means_num_unique_visits;;0.8628747490133629
+target_metric_mean_num_unique_visits;;0.8653937740832143
+metric_pvalue_num_unique_visits;;0.2722
+metric_significance_num_unique_visits;;0.0
+mean_effect_num_unique_visits * total_group_size / num_unique_visits;;0.002833313380422204
+mean_effect_num_visits;;0.008818399899378276
+effect_left_bound_num_visits;;-0.019072625132966082
+effect_right_bound_num_visits;;0.035213668174095075
+mean_effect_num_visits * total_group_size;;1018.0
+control_metric_means_num_visits;;2.772173371183272
+target_metric_mean_num_visits;;2.781417500108239
+metric_pvalue_num_visits;;0.4396
+metric_significance_num_visits;;0.0
+mean_effect_num_visits * total_group_size / num_visits;;0.0031159227324622217
+mean_effect_rto_novat;;1.6847526527538539
+effect_left_bound_rto_novat;;-17.858690479795438
+effect_right_bound_rto_novat;;21.492740055319587
+mean_effect_rto_novat * total_group_size;;194564.0
+control_metric_means_rto_novat;;1771.3924672851902
+target_metric_mean_rto_novat;;1773.3669137117372
+metric_pvalue_rto_novat;;0.5365
+metric_significance_rto_novat;;0.0
+mean_effect_rto_novat * total_group_size / rto_novat;;0.0009353692968048693
+mean_effect_front_margin_novat;;2.134141948343349
+effect_left_bound_front_margin_novat;;-3.769437718996005
+effect_right_bound_front_margin_novat;;8.263307697159483
+mean_effect_front_margin_novat * total_group_size;;246461.0
+control_metric_means_front_margin_novat;;488.17012047358577
+target_metric_mean_front_margin_novat;;490.39302428886873
+metric_pvalue_front_margin_novat;;0.4474
+metric_significance_front_margin_novat;;0.0
+mean_effect_front_margin_novat * total_group_size / front_margin_novat;;0.004296393350893834
+mean_effect_front_margin_novat_wo_comm;;0.7725036825945425
+effect_left_bound_front_margin_novat_wo_comm;;-5.1311677618587535
+effect_right_bound_front_margin_novat_wo_comm;;6.901619477910274
+mean_effect_front_margin_novat_wo_comm * total_group_size;;89213.0
+control_metric_means_front_margin_novat_wo_comm;;488.17012047358577
+target_metric_mean_front_margin_novat_wo_comm;;489.031381478114
+metric_pvalue_front_margin_novat_wo_comm;;0.5009
+metric_significance_front_margin_novat_wo_comm;;0.0
+mean_effect_front_margin_novat_wo_comm * total_group_size / front_margin_novat_wo_comm;;0.0015594777119323244
+mean_effect_commercial_front_margin_novat;;2.3734422543587654
+effect_left_bound_commercial_front_margin_novat;;-3.462595576282308
+effect_right_bound_commercial_front_margin_novat;;8.500940021024467
+mean_effect_commercial_front_margin_novat * total_group_size;;274097.0
+control_metric_means_commercial_front_margin_novat;;487.7740183826075
+target_metric_mean_commercial_front_margin_novat;;490.24706000779315
+metric_pvalue_commercial_front_margin_novat;;0.42869999999999997
+metric_significance_commercial_front_margin_novat;;0.0
+mean_effect_commercial_front_margin_novat * total_group_size / commercial_front_margin_novat;;0.004777419259593847
+mean_effect_ebitda;;1.0118039886099615
+effect_left_bound_ebitda;;-4.824321228964609
+effect_right_bound_ebitda;;7.139281208191683
+mean_effect_ebitda * total_group_size;;116848.0
+control_metric_means_ebitda;;487.7740183826075
+target_metric_mean_ebitda;;488.8854171970385
+metric_pvalue_ebitda;;0.49065000000000003
+metric_significance_ebitda;;0.0
+mean_effect_ebitda * total_group_size / ebitda;;0.0020422333877520636
+mean_effect_supplier_fin_ebitda;;2.392005300468644
+effect_left_bound_supplier_fin_ebitda;;-3.4447115393945493
+effect_right_bound_supplier_fin_ebitda;;8.517657620712798
+mean_effect_supplier_fin_ebitda * total_group_size;;276241.0
+control_metric_means_supplier_fin_ebitda;;487.7740183826075
+target_metric_mean_supplier_fin_ebitda;;490.2656613845954
+metric_pvalue_supplier_fin_ebitda;;0.427
+metric_significance_supplier_fin_ebitda;;0.0
+mean_effect_supplier_fin_ebitda * total_group_size / supplier_fin_ebitda;;0.004814608472327961
+CR_buy (buyers / group_size);0.8631637129927108;0.8657379017282628
+CR_buy_delta (CR_target - CR_control);;0.002574188735552041
+CR_comm (communications / group_size);;0.9201164267021359
+categories_items_CR_buy (buyers / group_size);0.20620444260199675;0.2093780499391092
+categories_items_CR_buy_delta (CR_target - CR_control);;0.003173607337112444
+experiment_items_CR_buy (buyers / group_size);0.033164058451653024;0.03832234995379207
+experiment_items_CR_buy_delta (CR_target - CR_control);;0.005158291502139048
+meta_post_analysis;{'spark': <pyspark.sql.session.SparkSession object at 0x7f57e4173950>, 'date_from': '2022-01-18', 'date_to': '2022-01-24', 'control_camp_wave_id': 79931, 'slip_check_date_from': '', 'slip_check_date_to': '', 'plu_list': ['3959', '4159731', '2137009', '2137039', '3398892', '3426770', '3426771', '4054537', '3426773', '3373862', '3270027', '3270028', '3356409', '3004331', '3929853', '3398891', '4150434', '3962', '3501805', '3326481', '3342907', '3270022', '3929854', '3662340', '3270024', '4054541', '3961', '3971', '3675339', '2137162', '4054540', '3662339', '2137159', '3675338', '3426774', '4004', '12260', '3501804', '3675337', '4054539', '3929852', '3342908', '3426772', '2157641', '3662341', '3229726', '4150433', '46222'], 'synthetic_catalog_ids': [52], 'threshold_price': None, 'threshold_item_condition': 'plu_list', 'count_for_plu_list': 3, 'rto_for_plu_list': None, 'is_keep_only_first_buy_for_plu_list': False, 'metrics_for_stat_test': ['num_unique_visits', 'num_visits', 'rto_novat', 'front_margin_novat', 'front_margin_novat_wo_comm', 'commercial_front_margin_novat', 'ebitda', 'supplier_fin_ebitda'], 'stat_test': StatTestParams(boot_iter=1000, test_name='ttest', cutoff_prob=0.5, significant_level=0.05, include_cutoff_prob_for_significance=False, fraud_filter={'max_rto_per_week': 20000.0, 'max_nchecks_per_week': 30.0, 'min_fm_share_in_rto': -0.5}), '__initialised__': True};{'spark': <pyspark.sql.session.SparkSession object at 0x7f57e4173950>, 'date_from': '2022-01-18', 'date_to': '2022-01-24', 'control_camp_wave_id': 79931, 'slip_check_date_from': '', 'slip_check_date_to': '', 'plu_list': ['3959', '4159731', '2137009', '2137039', '3398892', '3426770', '3426771', '4054537', '3426773', '3373862', '3270027', '3270028', '3356409', '3004331', '3929853', '3398891', '4150434', '3962', '3501805', '3326481', '3342907', '3270022', '3929854', '3662340', '3270024', '4054541', '3961', '3971', '3675339', '2137162', '4054540', '3662339', '2137159', '3675338', '3426774', '4004', '12260', '3501804', '3675337', '4054539', '3929852', '3342908', '3426772', '2157641', '3662341', '3229726', '4150433', '46222'], 'synthetic_catalog_ids': [52], 'threshold_price': None, 'threshold_item_condition': 'plu_list', 'count_for_plu_list': 3, 'rto_for_plu_list': None, 'is_keep_only_first_buy_for_plu_list': False, 'metrics_for_stat_test': ['num_unique_visits', 'num_visits', 'rto_novat', 'front_margin_novat', 'front_margin_novat_wo_comm', 'commercial_front_margin_novat', 'ebitda', 'supplier_fin_ebitda'], 'stat_test': StatTestParams(boot_iter=1000, test_name='ttest', cutoff_prob=0.5, significant_level=0.05, include_cutoff_prob_for_significance=False, fraud_filter={'max_rto_per_week': 20000.0, 'max_nchecks_per_week': 30.0, 'min_fm_share_in_rto': -0.5}), '__initialised__': True}
+meta_experiment_params;{'map_camp_wave_ids_to_suffixes': {79931: 'sms_viber_cg'}, 'date_communication_from': '2022-01-18', 'date_communication_to': '2022-01-24', 'wave_ids': [80030], 'communication_costs': {'sms': 1.38, 'viber': 1.32, 'email': 0.0083}, '__initialised__': True};{'map_camp_wave_ids_to_suffixes': {79931: 'sms_viber_cg'}, 'date_communication_from': '2022-01-18', 'date_communication_to': '2022-01-24', 'wave_ids': [80030], 'communication_costs': {'sms': 1.38, 'viber': 1.32, 'email': 0.0083}, '__initialised__': True}
